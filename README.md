@@ -1,4 +1,3 @@
 # mastermind
 
-An OCAML implementation of MasterMind.
-Et thomas cest le plus fort# MasterMindOcamel
+An OCAML implementation of MasterMind with SDL
